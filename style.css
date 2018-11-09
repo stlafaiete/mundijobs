@@ -1,0 +1,52 @@
+
+#mae{
+     display: flex;
+     flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px;
+    width: 100px;
+
+}
+#logo{
+    width: 100px;
+    justify-content: center;
+    
+}
+#menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    justify-content: center;
+}
+#menu-lista{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin: 5px;
+}
+body{
+    margin: 0px;
+}
+img{
+    width: 150px;
+    margin: 20px;
+   }
+#logomae{
+    
+}
+#oquesomos{
+    width: 900px;
+}
+#bene{
+    width: 900px;
+}
+#nossos{
+    width: 900px;
+}
+#how{
+    width: 900px;
+}
